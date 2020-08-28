@@ -3,7 +3,7 @@
 </p>
 
 # Fernanda Fiel Peres
-<font size = "10">Biomédica, professora e apaixonada por estatística</font>
+<font size="5">Biomédica, professora e apaixonada por estatística</font>
 <br><br>
 Graduada em biomedicina pela Universidade Federal de São Paulo (UNIFESP) e mestre em ciências pelo programa de pós-graduação em farmacologia (UNIFESP).
 
