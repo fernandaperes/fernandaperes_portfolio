@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="Banner.png" >
+  <img src="Banner2.png" >
 </p>
 
 # Fernanda Fiel Peres
-<sub>Biomédica, professora e cientista de dados</sub>
+<font size = 10>Biomédica, professora e apaixonada por estatística</font>
 
 Graduada em biomedicina pela Universidade Federal de São Paulo (UNIFESP) e mestre em ciências pelo programa de pós-graduação em farmacologia (UNIFESP).
 
