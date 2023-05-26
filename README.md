@@ -5,7 +5,7 @@
 # Fernanda Fiel Peres
 *Biomédica, professora e apaixonada por estatística.*
 </br></br>
-Graduada em biomedicina pela Universidade Federal de São Paulo (UNIFESP) e mestre em ciências pelo programa de pós-graduação em farmacologia (UNIFESP).
+Graduada em biomedicina pela Universidade Federal de São Paulo (UNIFESP), mestre e doutora em ciências pelo programa de pós-graduação em farmacologia (UNIFESP) e especialista em Estatística Aplicada (Unicsul).
 
 Professora de farmacologia e bioestatística em cursos técnicos, de graduação e pós-graduação.
 
